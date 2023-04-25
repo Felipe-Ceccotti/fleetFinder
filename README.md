@@ -1,7 +1,7 @@
 
 # Introdução
 
-Nesse teste, como o conhecimento em HTML, CSS e JS é avaliado, eu optei por utilizar um código em JS que realiza a mesma função de um JSX (react.js). Criei uma função chamada "Page" que é genérica, ou seja, não é necessário inserir manualmente no código qual o dado que se quer tratar. Essa função faz a busca no objeto JSON onde estão os dados e encontra os seus pares nos demais objetos, tornando possível adicionar mais dados no JSON (respeitando a modelagem do objeto) e ela irá tratar essas novas informações normalmente.
+Nesse projeto, eu optei por utilizar um código em JS que realiza a mesma função de um JSX (react.js). Criei uma função chamada "Page" que é genérica, ou seja, não é necessário inserir manualmente no código qual o dado que se quer tratar. Essa função faz a busca no objeto JSON onde estão os dados e encontra os seus pares nos demais objetos, tornando possível adicionar mais dados no JSON (respeitando a modelagem do objeto) e ela irá tratar essas novas informações normalmente.
 
 Para o melhor acesso desse código, ele foi hospedado no site https://www.felipececcotti.com/rastreio/
 
@@ -28,7 +28,7 @@ Para tornar este código mais dinâmico, em vez de ser necessário especificar m
 
 Um dos principais desafios foi usar o Leaflet, uma biblioteca que nunca havia utilizado antes. Foi necessário compreender seu funcionamento e aplicá-la corretamente, o que exigiu a leitura atenta da documentação.
 
-Outro desafio foi não utilizar o React, uma vez que o teste não é avaliado outras linguagens além de HTML, CSS e JS, apesar de outras linguagens serem permitidas. Decidi me desafiar a desenvolver um código 100% em JS, buscando a diversidade do React.js, que permite manipular estados sem a necessidade de mudar de página.
+Outro desafio foi não utilizar o React. Decidi me desafiar a desenvolver um código 100% em JS, buscando a diversidade do React.js, que permite manipular estados sem a necessidade de mudar de página.
 
 
 
